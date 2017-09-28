@@ -9,13 +9,13 @@ customer data.
 ```Rails 5.1.2```
 
 ## System dependencies
-[Node](https://github.com/nodejs/node)
-[Bower](https://github.com/bower/bower)
+* [Node](https://github.com/nodejs/node)
+* [Bower](https://github.com/bower/bower)
 
 ## Built With
-  *[Angular](https://angular.io/) - JavaScript framework for the front-end
-  *[Bootstrap](https://v4-alpha.getbootstrap.com/) - CSS framework
-  *[PostgreSQL](https://www.postgresql.org/) - Postgres as the database
+  * [Angular](https://angular.io/) - JavaScript framework for the front-end
+  * [Bootstrap](https://v4-alpha.getbootstrap.com/) - CSS framework
+  * [PostgreSQL](https://www.postgresql.org/) - Postgres as the database
 
 ## Database creation
 ```bundle exec rails db:setup```
