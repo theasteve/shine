@@ -1,24 +1,21 @@
-# README
+# Shine
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Shine  allows users to search for customers. The features that we’ll build for this
+application in the book involve searching for, viewing, and manipulating
+customer data.
 
 * Ruby version
+```ruby 2.3.1```
+```Rails 5.1.2```
 
 * System dependencies
+[Node](https://github.com/nodejs/node)
+[Bower](https://github.com/bower/bower)
 
-* Configuration
+* Built With
+  *[Angular](https://angular.io/) - JavaScript framework for the front-end
+  *[Bootstrap](https://v4-alpha.getbootstrap.com/) - CSS framework
+  *[PostgreSQL](https://www.postgresql.org/) - Postgres as the database
 
 * Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bundle exec rails db:setup```
